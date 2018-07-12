@@ -1,0 +1,4 @@
+C:\新建文件夹\Projects 3\LambdaAOP\LambdaAOP\bin\Debug\LambdaAOP.dll
+C:\新建文件夹\Projects 3\LambdaAOP\LambdaAOP\bin\Debug\LambdaAOP.pdb
+C:\新建文件夹\Projects 3\LambdaAOP\LambdaAOP\obj\Debug\LambdaAOP.dll
+C:\新建文件夹\Projects 3\LambdaAOP\LambdaAOP\obj\Debug\LambdaAOP.pdb
